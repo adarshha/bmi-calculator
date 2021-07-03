@@ -1,4 +1,4 @@
-# mausam
+# bmi calculator
 
 A new Flutter project.
 
